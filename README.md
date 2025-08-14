@@ -1,3 +1,6 @@
+# 🏆 Badge Conquistado!
+<img width="410" height="410" alt="Badge-Literalura" src="https://github.com/user-attachments/assets/10fb6d52-73ba-4063-8726-e15f57551d8d" />
+
 # 📚 Literalura
 
 O **Literalura** é uma aplicação Java para gerenciamento de livros, conectando-se a uma API externa para buscar informações literárias e armazená-las em um banco de dados local.  
